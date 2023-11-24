@@ -1,6 +1,6 @@
 body {
     background-color: #eeeeee;
-    font-family: "Red Hat Display", sans-serif;
+    font-family: 'Red Hat Display', sans-serif;
     display: flex;
     align-items: center;
     height: 100vh;
@@ -32,8 +32,8 @@ body {
 
     border-radius: 5px;
     border: none;
-
     outline: none;
+
     color: #fff;
     font-size: 16px;
     font-weight: 700;
@@ -75,6 +75,7 @@ body {
 .informacao-secundaria {
     background-color: #fff;
     color: #000;
+
     padding: 20px 30px;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
