@@ -10,4 +10,5 @@
 
 * HTML;
 * CSS;
-* JavaScript. 
+* JavaScript;
+* Free Weather [API](WeatherAPI.com)
