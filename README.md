@@ -1,8 +1,8 @@
-# Weather Forecast 
+# Weather Forecast 🌤️
 
-## Explore the weather forecast for any city with this project.
+## Explore the weather forecast for any city with this project. 🌧️
 
-### Tools Utilized:
+### ❄️ Tools Utilized:
 
 * HTML;
 * CSS;
