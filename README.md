@@ -44,7 +44,10 @@
 ## ✨ Features
 
 - [x] Responsive design for seamless usage on various devices.
-- [x] Integration with the Advice API..
+- [x] Integration with the Advice API for random advice.
+- [x] Current weather conditions including temperature, humidity, and wind speed.
+- [x] Search functionality to find weather information by city name.
+- [x] Interactive and animated weather icons.
 
 
 <br>
