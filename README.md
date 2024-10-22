@@ -34,7 +34,7 @@
 <br>
 
 
-### ❄️ Tools Utilized:
+### ❄️ Technologies:
 
 * HTML;
 * CSS;
