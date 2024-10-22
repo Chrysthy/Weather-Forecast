@@ -53,7 +53,7 @@
 
 ## 💻 Project
 
-- The website was created to practice JavaScript, Node, JSON and API skills.
+- The website was created to practice HTML, CSS, JavaScript, Node, JSON and API skills.
 
 <br>
 
