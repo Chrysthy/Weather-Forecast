@@ -41,7 +41,15 @@
 * JavaScript;
 * Free Weather [API](WeatherAPI.com)
 
+<br>
 
+## ✨ Features
+
+- [x] Responsive design for seamless usage on various devices.
+- [x] Integration with the Advice API..
+
+
+<br>
 
 ## 🫱🏻‍🫲🏻 Contributing
 <p> Contributions, issues, and feature requests are welcome! Please, feel free to do it! 😉 </p>
