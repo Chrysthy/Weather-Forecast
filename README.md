@@ -19,7 +19,19 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=c920c9&labelColor=000000">
 </p>
 
-<img src="src/images/weather.gif" alt="gif do projeto">
+
+<br>
+
+## 📸 Screenshots
+
+<br>
+
+<p align="center">
+  <img src=".github/weather.gif" alt="Gif do Projeto"  width="60%">
+</p>
+
+
+<br>
 
 
 ### ❄️ Tools Utilized:
