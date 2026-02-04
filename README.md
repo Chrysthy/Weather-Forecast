@@ -23,7 +23,7 @@
 ## 🌐 Live Demo
 
 <p align="center">
-  <a href="https://chrysthy.github.io/prompt-manager-project/index.html">
+  <a href="https://chrysthy.github.io/Weather-Forecast/">
     <img src="https://img.shields.io/badge/Live%20Demo-Open-success?labelColor=black" />
   </a>
 </p>
