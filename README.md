@@ -46,7 +46,7 @@
 <br>
 
 
-### ❄️ Technologies:
+## ❄️ Technologies:
 
 * HTML;
 * CSS;
